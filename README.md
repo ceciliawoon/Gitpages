@@ -12,6 +12,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Header 1
+Hello This is a header 1 
+
+
 ## Header 2
 ### Header 3
 
@@ -22,6 +25,9 @@ Syntax highlighted code block
 2. List
 
 **Bold** and _Italic_ and `Code` text
+This is a bold text 
+
+
 
 [Link](url) and ![Image](src)
 ```
